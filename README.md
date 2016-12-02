@@ -5,7 +5,7 @@ Email: dpmika@hotmail.it
 FB: https://www.facebook.com/dpmika
 
 # Cosa serve?
-Questo script in php , grazie alle api di http://suggestqueries.google.com estrapola i suggest di ricerca dal motore di ricerca Google.
+Questo script in php , grazie alle api di http://suggestqueries.google.com estrapola i suggest di ricerca da Google.
 
 # Come si usa
 
