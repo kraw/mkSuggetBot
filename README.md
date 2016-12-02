@@ -7,7 +7,7 @@ FB: https://www.facebook.com/dpmika
 # Cosa serve?
 Questo script in php , grazie alle api di http://suggestqueries.google.com estrapola i suggest di ricerca da Google.
 
-# Come si usa
+# Come si usa?
 
 Lo script può essere adattato a diverse situazioni ed implementato in qualsiasi progetto in php oppure si può anche lanciare semplicemente da terminale con il comando.
 
